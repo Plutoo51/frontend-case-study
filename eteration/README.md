@@ -1,9 +1,8 @@
 ## Available Scripts
 
-Before the start project you must install the mui and dom packages
+Before the start project you must install the packages
 
 ### `npm install`
-### `npm i react-router-dom`
 
 In the project directory, you can run:
 
