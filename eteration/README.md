@@ -2,11 +2,7 @@
 
 Before the start project you must install the mui and dom packages
 
-### `npm install @mui/material @emotion/react @emotion/styled`
-### `npm install @mui/material @mui/styled-engine-sc styled-components`
-### `npm install @fontsource/roboto`
-### `npm install @mui/icons-material`
-### `sudo apt install cmdtest`
+### `npm install`
 ### `npm i react-router-dom`
 
 In the project directory, you can run:
